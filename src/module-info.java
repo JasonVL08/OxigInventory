@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Jason
- *
- */
-module OxigInventory {
-}
